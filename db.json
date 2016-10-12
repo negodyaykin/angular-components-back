@@ -1,0 +1,85 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "Todo title 1",
+      "background": "#FFF9C4",
+      "todos": [
+        {
+          "title": "1",
+          "isComplete": true
+        },
+        {
+          "title": "11",
+          "isComplete": false
+        },
+        {
+          "title": "111",
+          "isComplete": true
+        },
+        {
+          "title": "1111",
+          "isComplete": false
+        },
+        {
+          "title": "11111",
+          "isComplete": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Todo title 2",
+      "background": "#E0E0E0",
+      "todos": [
+        {
+          "title": "22",
+          "isComplete": false
+        },
+        {
+          "title": "222",
+          "isComplete": true
+        },
+        {
+          "title": "2222",
+          "isComplete": false
+        },
+        {
+          "title": "22222",
+          "isComplete": false
+        },
+        {
+          "title": "2222222",
+          "isComplete": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Todo title 3",
+      "background": "#90CAF9",
+      "todos": [
+        {
+          "title": "111111111111",
+         "isComplete": false
+        },
+        {
+          "title": "111111111111111",
+          "isComplete": true
+        },
+        {
+          "title": "2222222222222222222",
+          "isComplete": false
+        },
+        {
+          "title": "33333333333333",
+          "isComplete": true
+        },
+        {
+          "title": "333333333333333333333",
+          "isComplete": false
+        }
+      ]
+    }
+  ]
+}
